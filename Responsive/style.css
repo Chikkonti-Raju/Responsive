@@ -1,0 +1,307 @@
+/****Reaponsive start up css ***/
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Work Sans', sans-serif;
+}
+.nav-fluid{
+    background-color:#74C69d;
+    width: 100%;
+    
+    
+}
+
+.navbar img{
+    margin-left: 8rem;
+    margin-top: 35px;
+}
+.nav-fluid .navbar span{
+     color: aliceblue;
+     font-size: 40px;
+     font-family: 'Work Sans', sans-serif;
+     font-weight:bold;
+     margin-right: 33%;
+     margin-top: 2.5rem;
+     flex:none;
+     
+}
+.menu ul{
+        list-style: none;
+        margin-right: 130px;
+        font-size: 20px;
+        line-height: 25px;
+        margin-top: 20px;
+        font-family: 'Work Sans', sans-serif;
+        font-weight:500;
+}
+.menu ul li{
+    
+        float: left;
+
+}
+.menu ul li a{
+display: inline;
+color: white;
+padding: 14px 16px;
+}
+
+.row p{
+    color:white;
+    margin: 5rem  1.5rem 0rem 8rem ;
+    font-weight: bold;  
+    letter-spacing: 6px;  
+}
+.row h1{
+    color:white;
+    margin: 0rem  1.5rem 0 8rem ;
+    font-family: 'Crimson Text', serif;
+    font-weight: 550;
+
+}
+.row h6{
+    color: white;
+    margin: 0rem  1.5rem 0 8rem ;
+}
+.nav-fluid .row .btn{
+    margin-left: 8rem;
+    margin-top: 1.5rem;
+    width: 30%;
+    padding: 8px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 18%;
+    
+}
+.row .logo img{
+    
+    margin-left: auto;
+    
+    
+}
+
+/*partners*/
+
+.about h2{
+    letter-spacing: 6px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #74C69d;
+    text-align: center;
+    margin-top: 3.5rem;
+}
+
+.about h1{
+    
+    font-family: 'Crimson Text', serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    
+    
+}
+.about p{
+    font-size: 22px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-top: 1rem;
+
+}
+
+.social{
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+.social img{
+    display: flexbox;
+    padding: 25px 25px;
+    margin: 5px;
+    align-items: center;
+
+}
+.social .btn{
+ 
+    width: 14%;
+    align-items: center;
+    padding: 6px;
+    color: white;
+    font-size: 20px;
+    margin-left: 39%;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    
+}
+
+.img-left img{
+    margin-left: 70px;
+}
+
+.img-left h1{
+    color: black;
+    margin-top: 5.5rem;
+    font-family: 'Crimson Text', serif;
+}
+.img-left h6{
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.img-left .row .btn{
+    width: 28%;
+    padding: 6px;
+    color: white;
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-left: 8rem;
+   
+}
+
+
+
+
+.img-right h1{
+    color: black;
+    margin-top: 15rem;
+    font-family: 'Crimson Text', serif;
+}
+.img-right h6{
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.row .btn{
+    width: 28%;
+    padding: 6px;
+    color: white;
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-left: 8rem;   
+   
+}
+
+
+.img-right img{
+    margin-right: 60px;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+
+}
+
+
+
+.Cards h2{
+    letter-spacing: 6px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #74C69d;
+    text-align: center;
+    margin-top: 3.5rem;
+}
+
+.Cards h1{
+    
+    font-family: 'Crimson Text', serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    
+    
+}
+.Cards p{
+    font-size: 22px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-top: 1rem;
+
+}
+
+
+.card-body img{
+    min-width: 100% ;
+    max-height: 150px;
+  }
+
+  .Cards .row{
+    margin: 100px;
+    margin-top: 25px;
+  }
+  .Cards .card{
+    width: 250px;
+    height: 44vh;
+    padding: 5px;
+    justify-content: space-between;
+    box-shadow: 3px 4px 12px 1px #00000040;
+  }
+
+  .Cards .card-body{
+    justify-content:space-between;
+    width: 250px;
+    height: 50vh;
+    
+  
+  }
+
+  .Cards .row h3{
+    font-size: 22px;
+    font-family: 'Crimson Text', serif;
+    font-weight: bold;
+    margin-left: 10px;
+  }
+  .Cards .row .text{
+    font-size: 15px;
+    letter-spacing: normal;
+    color: rgb(80, 82, 83);
+
+  }
+
+  .Cards .btn{
+ 
+    width: 14%;
+    padding: 6px;
+    color: white;
+    font-size: 20px;
+    margin-left: 42%;
+    margin-bottom: 4rem;
+    margin-top: 0;
+    
+}
+
+.footer{
+    background-color: #74C69d;
+}
+
+
+.footer .icons .fa{
+    color: aliceblue;
+    justify-content: space-between;
+    margin-top: 2.5rem;
+    padding-left: 25px;
+    font-size: 20px;
+}
+.footer .copyright{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.footer p{
+    color: rgb(243, 239, 239);
+    margin-top: 0px;
+    margin-left: 150px;
+    font-family: 'Work Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: normal;
+}
+  
+  
+/*****end*****/
